@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width: 95%;
+    height: auto;
+    background-color: aliceblue;
+    margin-left: 2.5%;
+    margin-top: 3%;
+    border-radius: 2% ;
+    padding: auto;
+}
+.headerContent{
+    color: #2B2C34;
+}
+.logo{
+    width: 320px;
+    height: 300px;
+}
+.heading{
+    color:rgb(240, 166, 29);
+    font-size: xx-large;
+    margin-left: 5%;
+}
+.subContent{
+    font-size: larger;
+    margin-left: 5%;
+    color: #2B2C34;
+}
+.chefIMG{
+    width: 40%;
+    margin-left: 55%;
+    margin-top: -30%;
+}
+.flexContainer{
+    display: flex;
+    margin-top: 1%;
+    background-color: white;
+    width: 85%;
+    margin-left: 7%;
+    border-radius: 20px;
+    border: 1px solid rgb(240, 166, 29);
+    
+}
+.first{
+    width: 240px;
+    height: 300px;
+    margin: 30px;
+    margin-left: 6%;
+    
+}
+.subHeader{
+    text-align: center;
+    font-size: xx-large;
+    color:rgb(240, 166, 29)
+}
+.pictures{
+    width: 100%;
+}
+.footer{
+    background-color:rgb(240, 166, 29 );
+    width: 100%;
+    border-radius: 0 0 20px 20px;
+   
+    margin-top: 1%;
+}
+.middlePart{
+    width: 250px;
+    height: 320px;
+    float: left;
+}
+.rightChef{
+    width: 250px;
+    height: 320px;
+    float: right;
+}
+.about{
+    width: 35%;
+    height: 180px;
+    margin: auto;
+    border: rgb(240, 166, 29 ) solid 1px;
+    margin-top: 3%;
+    padding: 10px;
+}
